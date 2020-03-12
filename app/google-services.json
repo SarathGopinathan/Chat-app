@@ -8,20 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:415682468982:android:6f607ef88b5a58df",
+        "mobilesdk_app_id": "app id",
         "android_client_info": {
           "package_name": "com.incabinteractive.justus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "415682468982-u2ftatr1pcdc032e2fh5rtl03toq1mp0.apps.googleusercontent.com",
+          "client_id": "client id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDf0p1yBYv4VsfUgvB0f0F4HxpYoDForDc"
+          "current_key": "key"
         }
       ],
       "services": {
